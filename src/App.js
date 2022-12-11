@@ -22,7 +22,7 @@ export default function App() {
  
   return (
     <div className="counter">
-      <h1>React Counterrr</h1>
+      <h1>React Counterrrddddddddd</h1>
       <span className="counter__output">{counter}</span>
       <div className="btn__container">
         <button className="control__btn" onClick={increase}>+</button>
